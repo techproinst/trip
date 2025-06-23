@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+
+# PHP Composer dependencies
+vendor/
+
+# Zip files and logs
+*.zip
+*.log
+
+# Temp folders
+TripLog/
+TCPDF-main/
+PHPMailer/
+
+# IDE config
+.vscode/
+.idea/
+
+# Laravel-specific (if used)
+.env
+storage/
+bootstrap/cache/
